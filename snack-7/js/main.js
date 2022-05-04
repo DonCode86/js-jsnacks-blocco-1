@@ -1,5 +1,5 @@
 const firstName = ["Daniele", "Marco", "Giuseppe", "Mirko"];
-const secondName = ["Daniele", "Marco", "Giuseppe", "Mirko"];
+const secondName = ["Ciccarelli", "Rossi", "Verdi", "Esposito"];
 
 let list = [];
 
